@@ -1,8 +1,8 @@
 # Gerador de Senhas | API
 
-![alt text](imagem1.png)
+![alt text](assets/images/imagem1.png)
 
-![alt text](imagem2.png)
+![alt text](assets/images/imagem2.png)
 
 ## Descrição
 
