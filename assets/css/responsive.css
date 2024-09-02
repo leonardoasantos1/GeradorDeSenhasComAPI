@@ -1,0 +1,39 @@
+@media (max-width: 650px) {
+    main {
+        max-width: 550px;
+    }
+
+    .container-textos h1 {
+        font-size: 1.8rem;
+    }
+}
+
+@media (max-width: 560px) {
+    main {
+        max-width: 450px;
+    }
+
+    .container-textos h1 {
+        font-size: 1.6rem;
+    }
+}
+
+@media (max-width: 460px) {
+    main {
+        max-width: 350px;
+    }
+
+    .container-textos h1 {
+        font-size: 1.4rem;
+    }
+}
+
+@media (max-width: 360px) {
+    main {
+        max-width: 300px;
+    }
+
+    .container-textos h1 {
+        font-size: 1.2rem;
+    }
+}
